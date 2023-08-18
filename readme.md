@@ -32,7 +32,7 @@ For training, first put training images and corresponding segmentation maps in s
 Then start training with the following command:
 
 ```bash
-    python train.py config/train.yml
+    python3 train.py
 ```
 
 

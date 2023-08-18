@@ -28,8 +28,6 @@ All the required python packages can be installed with:
 
 For training, first put training images and corresponding segmentation maps in separate directories and update the train.py file as required.
 
-```
-
 
 Then start training with the following command:
 

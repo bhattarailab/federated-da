@@ -1,6 +1,6 @@
 #  Client-server Deep Federated Learning for Cross-domain Surgical Image Segmentation
 
-Official pytorch implementation of the paper **A Client-server Deep Federated Learning for Cross-domain Surgical Image Segmentation** \
+Official pytorch implementation of the paper **A Client-server Deep Federated Learning for Cross-domain Surgical Image Segmentation**. \
 This paper presents a solution to the cross-domain adaptation problem for 2D surgical image segmentation, explicitly considering the privacy protection of distributed datasets belonging to different centers. 
 
 <p align="center"><img width="100%" src="images/pipeline.png" /></p>
